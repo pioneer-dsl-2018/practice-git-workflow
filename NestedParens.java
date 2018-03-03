@@ -2,7 +2,7 @@
 public class Recursion {
 	
 	public static boolean nestParen(String str) {
-		return false;
+		return true;
 	}
 
 	public static void main(String[] args) {
