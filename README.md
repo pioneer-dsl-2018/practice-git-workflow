@@ -1,2 +1,2 @@
 # practice-git-workflow
-In-class exercise for practicing git workflow
+In-class exercise for practicing the git workflow.
