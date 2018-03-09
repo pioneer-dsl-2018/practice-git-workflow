@@ -1,4 +1,4 @@
-public class Recursion {
+public class NestedParens {
 
 	public static boolean nestParen(String str) {
 		// base case: the empty string
@@ -18,7 +18,7 @@ public class Recursion {
 			return false;
 		}
 	}
-
+		
 	public static void main(String[] args) {
 		System.out.println(nestParen("(())"));
 	}
